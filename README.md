@@ -2,9 +2,9 @@
 
 Name 1: Thy H. Nguyen
 
-Name 2: ____________
+Name 2 (if needed)
 
-Name 3 (if needed): ____________
+Name 3 (if needed)
 
 Repository Link: https://github.com/2019-fall-csc-226/a06-it-s-in-your-genes-nguyent2-a06.git
 
