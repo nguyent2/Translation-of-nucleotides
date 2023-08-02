@@ -81,5 +81,6 @@ The logic in the functions (the way the functions are designed) makes it much ea
 ## COMMENTS:
 
 A paragraph or so of my own comments on and reactions to this assignment. Consider this like a reflection.
+
 I have learned one more new way to code. I have always been calling functions inside the functions, which makes it easier to get bugs with parameters. Therefore, with this new guide,
 it is much easier to write the code and debug the program. The test suites are also clear about what codes and algorithm should I make inside each small function to reach what the function does. 
