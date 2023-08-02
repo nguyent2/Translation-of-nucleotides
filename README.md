@@ -4,13 +4,9 @@ Name 1: T. H. Molena Nguyen
 
 Repository Link: https://github.com/2019-fall-csc-226/a06-it-s-in-your-genes-nguyent2-a06.git
 
-Google Document Link:https://docs.google.com/document/d/1FUFroEBdBQ4wBjd-GGr7SuHbZkq8ePpwjI1_xLm1z_A/edit?usp=sharing
-
 ## Milestone Reports
 
-Throughout this assignment, I will request (in class) that you give 
-me an update on progress on this assignment. Use this space to provide
-those reports.
+Update on progress on this assignment.
 
 Sunday, October 6, 2019
 * Fixing READMe, and answering several questions on the Google drive link.
@@ -45,7 +41,7 @@ Wednesday, October 16,2019
 
 ## INITIAL DESIGN PLAN:
 
-Summarize a plan which meets the computational requirements to solve the problem. Your plan does not need to be syntactically correct. It needs to capture the flow of logic in a human readable format.
+Summarize a plan which meets the computational requirements to solve the problem. My plan does not need to be syntactically correct. It needs to capture the flow of logic in a human readable format.
 1. Function is_nucleotide(): Check if each character in the string the user put in is one of the only 4 characters A,C,G,T or not.
 2. Function complement_strand():  Returns the string which will be the second strand of the DNA sequence
     given that Ts complement As, and Cs complement Gs.
@@ -56,7 +52,7 @@ Summarize a plan which meets the computational requirements to solve the problem
 
 ## IMPLEMENTATIONS:
 
-A list in bullet form of each function you created, and what is each function’s purpose.
+A list in bullet form of each function I created, and what is each function’s purpose.
 * Function is_nucleotide()
 * Function complement_strand()
 * Function mRNA()
@@ -71,12 +67,12 @@ A list in bullet form of each function you created, and what is each function’
 
 ## ERRORS:
 
-A list in bullet form of all known errors and deficiencies in your implementation.
+A list in bullet form of all known errors and deficiencies in my implementation.
 * IndexError: the index is not in the string  
 
 ## SUMMARY:
 
-A brief summary description of the design and implementation, including how much your initial design plan evolved, the final result you achieved, and the amount of time you spent as a programmer in accomplishing these results. This should be no more than two paragraphs. Consider this like a report of what you did.
+A brief summary description of the design and implementation, including how much my initial design plan evolved, the final result I achieved, and the amount of time I spent as a programmer in accomplishing these results. This should be no more than two paragraphs. Consider this like a report of what I did.
 
 This program is useful for biologist or anyone who works in the lab relating to genes. Each function is a part of the program, which makes the program easier to read.
 It is so easy to follow the algorithm implemented in this program, as each function serves as a part of the program.
@@ -84,6 +80,6 @@ The logic in the functions (the way the functions are designed) makes it much ea
 
 ## COMMENTS:
 
-A paragraph or so of your own comments on and reactions to this assignment. Consider this like a reflection.
+A paragraph or so of my own comments on and reactions to this assignment. Consider this like a reflection.
 I have learned one more new way to code. I have always been calling functions inside the functions, which makes it easier to get bugs with parameters. Therefore, with this new guide,
 it is much easier to write the code and debug the program. The test suites are also clear about what codes and algorithm should I make inside each small function to reach what the function does. 
